@@ -4,9 +4,9 @@ El entregable consiste en la utilizacion de 3 models, Weddings, Corporativos y T
 
 
 Cada evento es almacenado en la base de datos SQLite mediante el completado del formulario pertinente en las siguientes URLs:
-*cargar_wedding
-*cargar_corpo
-*cargar_turismo
+* cargar_wedding
+* cargar_corpo
+* cargar_turismo
 
 
 Una vez cargada la informacion la misma es guardada en la base de datos y puede ser consultada dando el nombre del evento a buscar en los siguientes urls:
